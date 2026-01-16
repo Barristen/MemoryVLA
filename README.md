@@ -23,8 +23,8 @@ MemoryVLA: A Comprehensive Survey on Memory Systems for Vision-Language-Action M
 
 ## 📢 Updates
 
-* **2026/01** - Initial release of the survey paper and reading list
-* **2026/01** - Repository created with categorized paper collection
+
+* **2026/01/16** - Repository created with categorized paper collection
 
 ---
 
