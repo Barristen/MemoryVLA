@@ -15,8 +15,8 @@ MemoryVLA: A Comprehensive Survey on Memory Systems for Vision-Language-Action M
 
 <div align="center">
     <a href="#"><img src="https://img.shields.io/badge/arXiv-Coming%20Soon-b31b1b.svg" alt="Paper"></a>
-    <a href="https://github.com/chenyizi/MemoryVLA"><img src="https://img.shields.io/github/last-commit/chenyizi/MemoryVLA?color=blue" alt="Github"></a>
-    <a href="https://github.com/chenyizi/MemoryVLA/LICENSE"> <img alt="License" src="https://img.shields.io/github/license/chenyizi/MemoryVLA?color=green"> </a>
+    <a href="https://github.com/chenyizi/MemoryVLA"><img src="https://img.shields.io/github/last-commit/Barristen/MemoryVLA?color=blue" alt="Github"></a>
+    <a href="https://github.com/chenyizi/MemoryVLA/LICENSE"> <img alt="License" src="https://img.shields.io/github/Barristen/MemoryVLA?color=green"> </a>
 </div>
 
 ---
