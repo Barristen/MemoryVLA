@@ -5,7 +5,7 @@ MemoryVLA: A Comprehensive Survey on Memory Systems for Vision-Language-Action M
 </div>
 
 <div align="center">
-<b>Chenyi Zi</b><sup>1†</sup>
+<b>Chenyi Zi</b><sup>1†</sup> <b>Yu Sun</b><sup>1†</sup> <b>Zhiyuan Ma</b><sup>1†</sup>
 </div>
 
 <div align="center">
