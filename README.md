@@ -5,7 +5,7 @@ MemoryVLA: A Comprehensive Survey on Memory Systems for Vision-Language-Action M
 </div>
 
 <div align="center">
-<b>Yizi Chen</b><sup>1†</sup>
+<b>Chenyi Zi</b><sup>1†</sup>
 </div>
 
 <div align="center">
@@ -317,7 +317,7 @@ We welcome contributions to this survey! If you know of relevant papers or have 
 
 1. Open an issue with paper details (title, authors, link, category)
 2. Submit a pull request with updates to the paper list
-3. Contact us directly: ychen@hkust-gz.edu.cn
+3. Contact us directly: czi447@connect.hkust-gz.edu.cn
 
 ### Contribution Guidelines
 - Papers should focus on memory systems for VLA models or closely related topics
@@ -345,7 +345,7 @@ We welcome contributions to this survey! If you know of relevant papers or have 
 
 ## 📧 Contact
 
-**Yizi Chen**  
+**Chenyi Zi**  
 Hong Kong University of Science and Technology (Guangzhou)  
 Email: ychen@hkust-gz.edu.cn
 
@@ -360,7 +360,7 @@ If you find this survey useful in your research, please consider citing:
 ```bibtex
 @misc{chen2026memoryvla,
       title={MemoryVLA: A Comprehensive Survey on Memory Systems for Vision-Language-Action Models}, 
-      author={Yizi Chen},
+      author={Chenyi Zi},
       year={2026},
       institution={Hong Kong University of Science and Technology (Guangzhou)},
       note={Survey paper in preparation}
