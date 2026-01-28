@@ -30,7 +30,7 @@ MemoryVLA: A Comprehensive Survey on Memory Systems for Vision-Language-Action M
 
 ## 🎯 Motivation
 
-Vision-Language-Action (VLA) models represent a critical advancement in embodied AI, enabling robots and agents to perceive visual information, understand language instructions, and execute physical actions. However, current VLA systems struggle with long-horizon tasks that require:
+Vision-Language-Action (VLA) models represent a critical advancement in embodied AI, enabling robots and agents to perceive visual information, understand language instructions, and execute physical actions. However, most VLAs exhibit a fundamental limitation: they rely on Markovian policies, predicting actions solely based on the current observation. Current VLA systems struggle with long-horizon tasks that require:
 
 - **Persistent memory** of past observations and interactions
 - **Efficient retrieval** of relevant experiences
